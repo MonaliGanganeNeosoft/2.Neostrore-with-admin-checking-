@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "61dd99f1372dbeebadf2ebf3"
+  },
+  "first_name": "pihjsss",
+  "last_name": "Gangane",
+  "email": "abc@gmail.com",
+  "password": "$2a$10$8GNu3W1oMGWyvJQw/Bqpe.nMDC.tRShkMsF1ZzXA.G7VPwEmLCmPy",
+  "phone_no": 1231231231,
+  "dob": "02/23/2019",
+  "avatar": {
+    "public_id": "avatars/t5sthmhaxnsafgebgsz7",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1644583218/avatars/t5sthmhaxnsafgebgsz7.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1641912817387"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dda12a372dbeebadf2ecc7"
+  },
+  "first_name": "shreyu",
+  "last_name": "asht",
+  "email": "xyz@gmail.com",
+  "password": "$2a$10$FsuAwAkp82ukBVjKXhpbXeRR8TBVCV.PRQS4ZA94Rel8mZum2fbqW",
+  "phone_no": 1231231231,
+  "dob": "02/23/2019",
+  "avatar": {
+    "public_id": "avatars/eagjhualuo2cdn23wtzb",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1641914666/avatars/eagjhualuo2cdn23wtzb.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1641914666323"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dda1e0372dbeebadf2ecf3"
+  },
+  "first_name": "kartik",
+  "last_name": "Gangane",
+  "email": "piyu@gmail.com",
+  "password": "$2a$10$40.Gpdeox3HjU3go2yTANOJPxaGUcCUaR4zmBK/ZqKcPytKzhr3s6",
+  "phone_no": {
+    "$numberLong": "2323232323"
+  },
+  "dob": "02/23/2019",
+  "avatar": {
+    "public_id": "avatars/dakfpcoowqdbbbxhu5vr",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1641914848/avatars/dakfpcoowqdbbbxhu5vr.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1641914848328"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e044ef46916379000c6d3b"
+  },
+  "first_name": "Moni",
+  "last_name": "Gangane",
+  "email": "moni.gangane@gmail.com",
+  "password": "$2a$10$L4nE95WK9oYUuDnGDyG.luBjAlVpvc91RLSVcygdhsdYG5gp3nkZW",
+  "phone_no": {
+    "$numberLong": "2323232323"
+  },
+  "dob": "02/23/2019",
+  "avatar": {
+    "public_id": "avatars/m29bi1wu5g9ilsbpuw3v",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1643203628/avatars/m29bi1wu5g9ilsbpuw3v.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642087663443"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e58a18ef695a7a13a63f0a"
+  },
+  "first_name": "monali",
+  "last_name": "gangane",
+  "email": "monali.gangane1999@gmail.com",
+  "password": "$2a$10$Qx8B6BaMTzcOZ7nv.uV/GOQwdt5sw.vJwSGG40OCgOxs8oN12nFu6",
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1642433048393"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f038742fcc1bbebeb759ef"
+  },
+  "first_name": "manisha",
+  "last_name": "rajput",
+  "email": "datta@gmail.com",
+  "password": "$2a$10$bsR/1eSzHzegj2rVEvtmr.g11Fxxkx32OIvbVpD8ZbyoGsBhSKgq2",
+  "phone_no": {
+    "$numberLong": "9898989898"
+  },
+  "dob": "02/23/2019",
+  "avatar": {
+    "public_id": "avatars/ii8b0dqnlcpwvenlovff",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1643202705/avatars/ii8b0dqnlcpwvenlovff.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1643133044833"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62079ed616b42f313dabbc7d"
+  },
+  "first_name": "Monali",
+  "last_name": "Gangane",
+  "email": "temp4.gangane@gmail.com",
+  "password": "$2a$10$G/pQpjTLgl3HIThFNinOY.xP8x6dTJy8ZkHsoGOdJX9icNimPz1Ye",
+  "phone_no": {
+    "$numberLong": "2323232319"
+  },
+  "dob": "02/23/2019",
+  "avatar": {
+    "public_id": "avatars/x3kbh29fqluyiygcilgf",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1644666586/avatars/x3kbh29fqluyiygcilgf.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644666582156"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62209a479b008197f209e8f8"
+  },
+  "first_name": "Monali",
+  "last_name": "Gangane",
+  "email": "monali.gangane@gmail.com",
+  "password": "$2a$10$g3d2K/3sNp9xz5kACrHRu.nS5nVtfcMSpgndVwaZCrkPQGpuLO7YG",
+  "phone_no": {
+    "$numberLong": "9878788989"
+  },
+  "dob": "02/23/2019",
+  "avatar": {
+    "public_id": "avatars/wl9g5ch0drvtp1ryv4nj",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1646303815/avatars/wl9g5ch0drvtp1ryv4nj.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646303815366"
+    }
+  },
+  "__v": 0
+}]
